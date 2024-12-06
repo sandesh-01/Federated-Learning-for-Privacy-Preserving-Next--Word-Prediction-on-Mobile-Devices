@@ -39,6 +39,7 @@ Federated Learning for Next-Word Prediction is a distributed training approach w
 - **Tools**: Jupyter Notebook for experimentation.
 
 ---
+# **SANDESH BUCHKUL**
 
 ## **Project Structure**
 ```plaintext
@@ -53,3 +54,6 @@ project/
 ├── tests/                    # Unit and integration test cases
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # Project documentation
+
+
+# **Features**
